@@ -12,8 +12,8 @@ If you like it, add it to your **Login Items** in **Users & Groups** pane of **S
 
 ### Note:
 
-This requires **Enable access for assistive devices** to be activated in the
-**Universal Access** pane of **System Preferences**. If not active, you will be prompted to activate it at first launch. Relaunch `DockIntellihide.app` afterwards.
+This requires **Accessibility access** to be activated in the
+**Security & Privacy** pane of **System Preferences**.
 
 ### Compatibility:
 
@@ -22,10 +22,12 @@ This is compatible with the following Mac OS X versions :
 * Snow Leopard ;
 * Lion ;
 * Mountain Lion.
+* Sierra
+* High Sierra
 
 On Lion and Mountain Lion, with full screen apps, the Dock will hide automatically and return to its previous state when switching to a regular app.
 
-Note that Lion suffers from [a bug with Launchpad](https://github.com/gjherbiet/DockIntellihide.app/issues/1) that is solved under Mountain Lion.
+Note that Lion suffers from [a bug with Launchpad](https://github.com/gjherbiet/DockIntellihide.app/issues/1) that is solved under Mountain Lion and newer.
 
 ## License
 
